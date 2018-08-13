@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "905927013869",
+    "firebase_url": "https://vue-firebase-tutorial-dfb85.firebaseio.com",
+    "project_id": "vue-firebase-tutorial-dfb85",
+    "storage_bucket": "vue-firebase-tutorial-dfb85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905927013869:android:c9ec5ffe989e1bbb",
+        "android_client_info": {
+          "package_name": "mobi.publishing.recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905927013869-mosd5s37l0g4iudf7sg66nqbg5n3uaf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlVt_bAJ5apXOLmdfnjorbDmFrjIhQtB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

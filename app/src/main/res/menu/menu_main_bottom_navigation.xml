@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_cookbooks"
+        android:enabled="true"
+        android:icon="@drawable/baseline_book_white_24"
+        android:title="@string/nav_cookbooks"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_discover"
+        android:enabled="true"
+        android:icon="@drawable/baseline_explore_white_24"
+        android:title="@string/nav_discover"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_favourites"
+        android:enabled="true"
+        android:icon="@drawable/baseline_favorite_white_24"
+        android:title="@string/nav_favourites"
+        app:showAsAction="ifRoom" />
+</menu>
